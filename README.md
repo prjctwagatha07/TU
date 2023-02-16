@@ -1,6 +1,6 @@
-# ubuntu-in-termux
+# Termux Ubuntu
 
-[![DISCORD](https://img.shields.io/badge/Chat-On%20Discord-738BD7.svg?style=for-the-badge)](https://discord.gg/Xaqkdeh)
+[![TELEGRAM](https://img.shields.io/badge/Telegram-%20T-9CF)](https://t.me/nhuuyaa)
 
 ## What's This?
 
